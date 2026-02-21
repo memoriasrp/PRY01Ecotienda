@@ -1,0 +1,23 @@
+{
+  "name": "pry01-ecotienda",
+  "version": "1.0.0",
+  "description": "Primer proyecto del curso",
+  "homepage": "https://bitbucket.org/memorias85/pry01-ecotienda#readme",
+  "bugs": {
+    "url": "https://bitbucket.org/memorias85/pry01-ecotienda/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ink_memories@bitbucket.org/memorias85/pry01-ecotienda.git"
+  },
+  "license": "ISC",
+  "author": "Silvia Rodriguez",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
